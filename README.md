@@ -20,3 +20,8 @@ git clone https://github.com/OlaAbdQad/Product-Management.git
 - Ensure you have .NET SDK installed on your computer.
 - Ensure to have SQL Lite installed on your computer.
 - Update the connection string in the appsettings.development.json file to point to your local SQL Lite database."# Product-Management"
+
+# LOGIN DETAILS
+
+Email: superadmin@gmail.com
+Password: P@$$w0rd
